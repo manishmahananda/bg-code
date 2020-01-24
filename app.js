@@ -7,4 +7,4 @@ setInterval(function(){
 		body.style.background = "blue"
 	}
 	isBlue = !isBlue;
-},3000)
+},1000)
